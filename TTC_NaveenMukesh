@@ -1,0 +1,35 @@
+TTC_ NaveenMukesh 2021
+-----------------------------------------
+
+Learning multiple programming languages is good. But the better thing is while learning a language, be good in its data structures and alogirthms. The vital part is how effectively you are able to write effective optimized code.
+
+Incase you are having fear of programming while learning a language. The best way to overcome it is to try out learning a different programming language which might suit your taste.
+
+Test Automation is an art to save time and improve productivity.
+
+Automation is not just restricted to test automation. It can be anything which reduces human intervention.
+
+QA to Scrum Master . Bascically such a move would limit the scope of work. Scrum Master priority role is to being a bridge between QA, Dev, Stakeholder, Business. Also Scrum Master role is having more risk as there are more chances of getting fired if the company policy changes or business loss occurs as the company wont be able to fill in proper roles for them.
+
+STAR method (Situation Task Action & Result) - This has become a common interview section in most product companies, wherin they would ask us a situational or behavioural questions and
+check how we would respond to it. Questions like a) What would you do if you have to learn something from juniors in your team? b) You have to execute 1000 test cases and next day is your release
+then how would you manage the release? etc.
+
+Test Automation Preference 2021 -> (1) API (more coverage), (2) Web, (3) Mobile.
+
+To get maximum ROI -> Ask and enforce the development team to have proper unit tests from their end. Which will inturn result in reducing the number of issues. Once this is stabilized, then
+start with API testing and automation because that is the layer where we can find the maximum number of bugs. Then move onto Web UI testing and web automation.
+
+API architecture (Monolithic vs Microservices) : Monolithic is still used by Stackoverflow, Wikipedia etc and Microservices architecture by fb, uber, amazon etc.
+
+Priorities while choosing job offer -> Work life balance, Culture of company(Learning opportunity), Role being offered then Money and other benefits.
+
+T-Shaped testers are those who possess multiple skills and utilize them across other domains. Similar to full Stack QA but it is impossible to become full Stack QA. But being T shaped tester is fine
+because he works on multiple technologies and tools but always strong on his primary skill for example Web Automation or API Automation.
+
+
+Q. For banking projects where security is of utmost priortiy how can we justify to the security team that using Open source tools like Selenium, Appium, Rest Assured is safe ?
+   The answer is that all these open source tools are libraries not any cloud platform, we just use them to get our work done and they are not storing any data. Problems can come when we are
+   using browserstack, saucelabs etc when we are executing it in their system.
+
+Sonarqube - It is always suggested to pass your automation code to Sonarqube code scan which is one of the best Static code analysis tool.
